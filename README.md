@@ -84,7 +84,7 @@ Designed and implemented a complete relational database system for an e-commerce
 SQL (MySQL), Database Design, Business Querying
 
 ## 📫 Connect With Me
-- LinkedIn: (Add your LinkedIn link)
+- LinkedIn: (www.linkedin.com/in/priti-more-6b14272aa)
 - Email: (morepriti8446@gmail.com)
 
 ⭐ Always learning and improving in Data Science & Analytics
